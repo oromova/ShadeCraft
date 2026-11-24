@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the example domain before publishing a real site.
+Sitemap: https://shadecraft.example/sitemap.xml
